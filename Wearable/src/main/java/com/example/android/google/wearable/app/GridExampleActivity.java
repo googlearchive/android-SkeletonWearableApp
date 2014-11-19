@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.skeletonwearableapp;
+package com.example.android.google.wearable.app;
 
 import android.app.Activity;
 import android.app.Fragment;
