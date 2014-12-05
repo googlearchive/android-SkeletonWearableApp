@@ -5,8 +5,13 @@
 ---
 status:       PUBLISHED
 technologies: [Android]
-categories:   [Wearable]
+categories:   [Getting Started, Wearable]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-SkeletonWearableApp
+level:        BEGINNER
+icon:         Wearable/src/main/res/drawable-xhdpi/ic_launcher.png
+apiRefs:
+    - android:android.support.wearable.view.CardFragment
+    - android:android.support.wearable.view.GridViewPager
 license: apache2

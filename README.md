@@ -1,10 +1,21 @@
 Android SkeletonWearableApp Sample
 ===================================
 
+This sample is a basic skeleton app which can be used as a starting point for wear development.
+
+Introduction
+------------
+
 This sample is a mostly empty wearable app that implements a fullscreen activity
-conforming to Android Wear best practices. Included in the sample are examples of GridViewPager,
-DelayedConfirmationView, and DismissOverlayView. Developers who require a fullscreen activity for
+conforming to Android Wear best practices. Included in the sample are examples of [GridViewPager][1],
+[DelayedConfirmationView][2], and [DismissOverlayView][3].
+
+Developers who require a fullscreen activity for
 their wearable app can use this sample as a starting point.
+
+[1]: https://developer.android.com/reference/com/google/android/support/wearable/view/GridViewPager.html
+[2]: https://developer.android.com/reference/com/google/android/support/wearable/view/DelayedConfirmationView.html
+[3]: https://developer.android.com/reference/com/google/android/support/wearable/view/DismissOverlayView.html
 
 Pre-requisites
 --------------
@@ -12,6 +23,11 @@ Pre-requisites
 - Android SDK v21
 - Android Build Tools v21.1.1
 - Android Support Repository
+
+Screenshots
+-------------
+
+<img src="screenshots/skeleton_wearable_app.png" height="400" alt="Screenshot"/> <img src="screenshots/grid_view_pager.png" height="400" alt="Screenshot"/> <img src="screenshots/dismiss_overlay.png" height="400" alt="Screenshot"/> <img src="screenshots/delayed_confirmation.png" height="400" alt="Screenshot"/> 
 
 Getting Started
 ---------------
