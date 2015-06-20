@@ -14,9 +14,9 @@ conforming to Android Wear best practices. Included in the sample are examples o
 Developers who require a fullscreen activity for
 their wearable app can use this sample as a starting point.
 
-[1]: https://developer.android.com/reference/com/google/android/support/wearable/view/GridViewPager.html
-[2]: https://developer.android.com/reference/com/google/android/support/wearable/view/DelayedConfirmationView.html
-[3]: https://developer.android.com/reference/com/google/android/support/wearable/view/DismissOverlayView.html
+[1]: https://developer.android.com/reference/android/support/wearable/view/GridViewPager.html
+[2]: https://developer.android.com/reference/android/support/wearable/view/DelayedConfirmationView.html
+[3]: https://developer.android.com/reference/android/support/wearable/view/DismissOverlayView.html
 
 Pre-requisites
 --------------
@@ -28,7 +28,7 @@ Pre-requisites
 Screenshots
 -------------
 
-<img src="screenshots/skeleton_wearable_app.png" height="400" alt="Screenshot"/> <img src="screenshots/grid_view_pager.png" height="400" alt="Screenshot"/> <img src="screenshots/dismiss_overlay.png" height="400" alt="Screenshot"/> <img src="screenshots/delayed_confirmation.png" height="400" alt="Screenshot"/> 
+<img src="screenshots/skeleton_wearable_app.png" height="400" alt="Screenshot"/> <img src="screenshots/grid_view_pager.png" height="400" alt="Screenshot"/> <img src="screenshots/dismiss_overlay.png" height="400" alt="Screenshot"/> <img src="screenshots/delayed_confirmation.png" height="400" alt="Screenshot"/>
 
 Getting Started
 ---------------
